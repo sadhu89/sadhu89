@@ -10,7 +10,7 @@ Slack except for coffee chats, love a sync 1 on 1 convo here and there!!
 
 I like to use https://conventionalcomments.org/ for code reviews.
 
-Love to use diagrams and (now virtual) whiteboarding whenever is possible, you will probably see me drawing 🎨 at some point 
+Love to use diagrams and (now virtual) whiteboarding whenever possible, you will probably see me drawing 🎨 at some point 
 
 ## Work-related topics you can discuss with me
 
