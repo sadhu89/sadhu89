@@ -1,6 +1,8 @@
 ## Who am I?
 
-Hi there! My name is Carlos. I am a Software Engineer originally from llama land (Peru 🇵🇪🦙) but I have been living in kangaroo land (Australia 🇦🇺🦘) since 2017.
+Hi there! My name is Carlos. I am a Software Engineer originally from Llama Land (Peru 🇵🇪🦙) but I have been living in Kangaroo Land (Australia 🇦🇺🦘) since 2017.
+
+My love language is Ruby. I am learning Elixir atm and I have some experience with Scala and Typescript.
 
 I love singing and playing guitar. Feel free to use me as a jukebox if we ever cross paths. Here is my [songlist](https://www.notion.so/03308460048149d888714845ab35a7a7?pvs=21). Song requests are welcomed!!
 
