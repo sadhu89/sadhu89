@@ -6,7 +6,7 @@ I love singing and playing guitar. Feel free to use me as a jukebox if we ever c
 
 ## How do I prefer to communicate?
 
-Slack except for coffee chats, love a sync 1 on 1 convo here and there!!
+Slack except for coffee chats, love a good sync 1 on 1 convo here and there!!
 
 I like to use https://conventionalcomments.org/ for code reviews.
 
